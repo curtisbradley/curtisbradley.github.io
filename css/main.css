@@ -1,1 +1,16 @@
-
+/* Add some styles to some TAGS on the page (maybe the h1 and the img?)*/
+ h1 {
+    font-family: Helvetica;
+    cursor: pointer;
+}
+/* Add a style to a CLASS or CLASSES for some <div>s on the page */
+ .bg-red {
+    background-color:red;
+}
+/* Add a class to one <div> on the page using an ID */
+ .bg-green {
+    background-color:green;
+}
+#rating {
+    font-size:36ptx
+}
